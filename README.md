@@ -8,3 +8,4 @@ The shelving nameing system this application uses is each Shelf a single charact
 
 For example the User can search "HDMI" in the search text box and the application will return the a datagrid view cell providing the shelf and row of the HDMI cable.
 
+The application uses a mysql table for storing these items and locations
